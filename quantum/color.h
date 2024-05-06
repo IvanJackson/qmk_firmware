@@ -71,6 +71,9 @@
 #define HSV_WHITE         0,   0, 255
 #define HSV_YELLOW       43, 255, 255
 #define HSV_OFF         HSV_BLACK
+#define HSV_COOL_GRAY       142, 141, 190
+#define HSV_MARINE    145, 249, 229
+
 
 // clang-format on
 
